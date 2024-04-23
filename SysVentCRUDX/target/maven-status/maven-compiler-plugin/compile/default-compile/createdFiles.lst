@@ -1,0 +1,6 @@
+pe\edu\upeu\syscenterlife\gui\MainCliente$1.class
+pe\edu\upeu\syscenterlife\gui\GUIMain.class
+pe\edu\upeu\syscenterlife\gui\MainCliente.class
+pe\edu\upeu\syscenterlife\SysVentCrudxApplication.class
+pe\edu\upeu\syscenterlife\modelo\Cliente.class
+pe\edu\upeu\syscenterlife\service\ClienteService.class
